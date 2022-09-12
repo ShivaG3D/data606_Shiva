@@ -1,14 +1,15 @@
 # Capstone Project: Customer Lifetime Value (CLV) Prediction 
-** Shiva Shettar Fall 2022 Data 606: **
+**Shiva Shettar Fall 2022 Data 606**
 
 ## Introduction
 
 Analyzing customer lifetime value is critical to improving marketing decision-making, campaign ROI and customer retention. Weirdly, everyone in marketing understands its importance, but few can define it sufficiently to measure it correctly. The exact same thing applies to customer retention, which is also commonly misunderstood by most marketers. **Customer Lifetime Value is the discounted value of future profits a customer yields to the company.** Customer lifetime value can help you see which customers are worth your focus and investment and allow you to better plan your marketing budget.
 
 ## Questions to Answer
-
+sdafdsfdsa
 ## Data Source and Description
 
+### Online Retail Data Set
 This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 ### Attribute Information:
@@ -20,6 +21,11 @@ This is a transnational data set which contains all the transactions occurring b
 -	UnitPrice: Unit price. Numeric, Product price per unit in sterling.
 -	CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 -	Country: Country name. Nominal, the name of the country where each customer resides. 
+
+### Online Shoppers Purchasing Intention Dataset
+dfasddsfdsfds
+### Global Superstore Dataset information
+The Global Super Store dataset is a customer-centric dataset, which has all the orders placed through different vendors and markets. The attributes and dataset information for Global Superstore dataset are described in TABLE III.
 
 
 ## Methodologies
@@ -45,3 +51,5 @@ Improve retention to drive growth from existing customers
 ## Refernce
 *   https://marketinglabs.co.uk/why-you-need-to-be-measuring-customer-lifetime-value/
 *   https://www.shopify.com/au/blog/customer-lifetime-value
+*   https://wsp.wharton.upenn.edu/blog_post/customer-lifetime-value-centricity-peter-fader-ted-x-penn-talk/
+*   https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf
