@@ -1,5 +1,5 @@
 # Capstone Project: Customer Lifetime Value (CLV) Prediction 
-**Shiva Shettar Fall 2022 Data 606: **
+** Shiva Shettar Fall 2022 Data 606: **
 
 ## Introduction
 
