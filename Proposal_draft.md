@@ -1,5 +1,5 @@
 # Capstone Project: Customer Lifetime Value (CLV) Prediction 
-**Name: Shiva S Fall 2022 Data 606**
+**Name: Shiva S (Fall 2022-Data 606)**
 
 ## Introduction
 
