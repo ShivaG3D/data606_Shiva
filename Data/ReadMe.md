@@ -16,3 +16,4 @@ http://www.tableau.com/sites/default/files/training/global_superstore.zip
 
 
 
+https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset?resource=download
