@@ -1,5 +1,5 @@
 # Capstone Project: Customer Lifetime Value (CLV) Prediction 
-**Name: Shiva S Fall 2022 Data 606**
+**Name: Shiva S (Fall 2022-Data 606)**
 
 ## Introduction
 
@@ -22,9 +22,6 @@ This is a transnational data set which contains all the transactions occurring b
 
 ### Online Shoppers Purchasing Intention Dataset
 This dataset contains Online Shoppers Of the 12,330 sessions in the dataset, 84.5% (10,422) were negative class samples that did not end with shopping, and the rest (1908) were positive class samples ending with shopping.
-
-### Global Superstore Dataset information
-The Global Super Store dataset is a customer-centric dataset, which has all the orders placed through different vendors and markets. The attributes and dataset information for Global Superstore dataset are described in TABLE III.
 
 Below data elements represent the number of different types of pages visited by the visitor in that session and total time spent in each of these page categories. The values of these features are derived from the URL information of the pages visited by the user and updated in real time when a user takes an action, e.g. moving from one page to another.
 -	Administrative
@@ -50,6 +47,8 @@ Below data elements represent the number of different types of pages visited by 
 -	Weekend
 -   Revenue : The 'Revenue' attribute can be used as the **class label**.
 
+### Global Superstore Dataset information
+The Global Super Store dataset is a customer-centric dataset, which has all the orders placed through different vendors and markets.
 
 ## Approach / Methodologies
 -  Analyze and visualize data in Python using pandas and Matplotlib
