@@ -5,7 +5,11 @@
 
 Analyzing customer lifetime value is critical to improving marketing decision-making, campaign ROI and customer retention. Weirdly, everyone in marketing understands its importance, but few can define it sufficiently to measure it correctly. The exact same thing applies to customer retention, which is also commonly misunderstood by most marketers. **Customer Lifetime Value is the discounted value of future profits a customer yields to the company.** Customer lifetime value can help you see which customers are worth your focus and investment and allow you to better plan your marketing budget. The Customer Lifetime Value (CLV) is the total worth that a customer generates for a company over their entire customer journey. In many companies, this enormously important figure is used across departments to distribute resources in a way that best optimizes sales and profits. CLV takes into account not only historic and
 current sales, but also includes forecasted future sales.
-
+## Importance of Customer lifetime value
+-   Customer lifetime value is the average amount of money the customers will spend on our business over the entire life of their relationship with business. It is important to understand below  aspects:
+    -   measures how valuable a customer is to the business over an unlimited period of time, as opposed to just their initial purchase
+    -   helps businesses determine how much revenue to generate from specific customers
+    -   reduces the need to spend more on marketing and advertising to obtain new customers
 ## Approach / Methodologies
 -	Develop core model-making process and justification of choice of CLV models suitable for use by e-commerce companies
 -	Compare the selected CLV predictive models based on certain metrics
