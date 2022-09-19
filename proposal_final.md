@@ -6,6 +6,18 @@
 Analyzing customer lifetime value is critical to improving marketing decision-making, campaign ROI and customer retention. Weirdly, everyone in marketing understands its importance, but few can define it sufficiently to measure it correctly. The exact same thing applies to customer retention, which is also commonly misunderstood by most marketers. **Customer Lifetime Value is the discounted value of future profits a customer yields to the company.** Customer lifetime value can help you see which customers are worth your focus and investment and allow you to better plan your marketing budget. The Customer Lifetime Value (CLV) is the total worth that a customer generates for a company over their entire customer journey. In many companies, this enormously important figure is used across departments to distribute resources in a way that best optimizes sales and profits. CLV takes into account not only historic and
 current sales, but also includes forecasted future sales.
 
+## Approach / Methodologies
+-	Develop core model-making process and justification of choice of CLV models suitable for use by e-commerce companies
+-	Compare the selected CLV predictive models based on certain metrics
+-	Predict the future behavior of the customers – whether a customer is going to buy in the near future 
+-	Use historical customer churn data to predict whether a customer will leave the company based on the data inputs (features) provided
+-  Analyze and visualize data in Python using pandas and Matplotlib
+-  Study clustering techniques, such as hierarchical and k-means clustering
+-  Create customer segments based on manipulated data
+-  Predict customer lifetime value using linear regression, DNN
+-  Use classification algorithms to understand customer choice
+-  Optimize classification algorithms to extract maximal information
+
 ## Data Source and Description
 
 ### Online Retail Data Set
@@ -72,18 +84,6 @@ Below data elements represent the number of different types of pages visited by 
 -	INTL _CHARGE: total dollar charge for international calls in a given month
 -	CUST_SERV_CALLS: number of customer service calls in a given month
 -	CHURN: a yes or no column indicating whether the customer unsubscribed or not within three months of the period covered by the data in the other columns , used as the **class label**.
-
-## Approach / Methodologies
--	Core model-making process  and justification of choice of CLV models suitable for use by e-commerce companies
--	Compared the selected CLV predictive models based on certain metrics
--	Predict the future behavior of the customers – whether a customer is going to buy in the near future 
--	Use historical customer churn data to predict whether a customer will leave the company based on the data inputs (features) provided
--  Analyze and visualize data in Python using pandas and Matplotlib
--  Study clustering techniques, such as hierarchical and k-means clustering
--  Create customer segments based on manipulated data
--  Predict customer lifetime value using linear regression, DNN
--  Use classification algorithms to understand customer choice
--  Optimize classification algorithms to extract maximal information
 
 
 
