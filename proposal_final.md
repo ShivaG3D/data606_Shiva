@@ -74,6 +74,10 @@ Below data elements represent the number of different types of pages visited by 
 -	CHURN: a yes or no column indicating whether the customer unsubscribed or not within three months of the period covered by the data in the other columns , used as the **class label**.
 
 ## Approach / Methodologies
+-	Core model-making process  and justification of choice of CLV models suitable for use by e-commerce companies
+-	Compared the selected CLV predictive models based on certain metrics
+-	Predict the future behavior of the customers – whether a customer is going to buy in the near future 
+-	Use historical customer churn data to predict whether a customer will leave the company based on the data inputs (features) provided
 -  Analyze and visualize data in Python using pandas and Matplotlib
 -  Study clustering techniques, such as hierarchical and k-means clustering
 -  Create customer segments based on manipulated data
