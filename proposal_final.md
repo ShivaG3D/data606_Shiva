@@ -3,7 +3,8 @@
 
 ## Introduction
 
-Analyzing customer lifetime value is critical to improving marketing decision-making, campaign ROI and customer retention. Weirdly, everyone in marketing understands its importance, but few can define it sufficiently to measure it correctly. The exact same thing applies to customer retention, which is also commonly misunderstood by most marketers. **Customer Lifetime Value is the discounted value of future profits a customer yields to the company.** Customer lifetime value can help you see which customers are worth your focus and investment and allow you to better plan your marketing budget.
+Analyzing customer lifetime value is critical to improving marketing decision-making, campaign ROI and customer retention. Weirdly, everyone in marketing understands its importance, but few can define it sufficiently to measure it correctly. The exact same thing applies to customer retention, which is also commonly misunderstood by most marketers. **Customer Lifetime Value is the discounted value of future profits a customer yields to the company.** Customer lifetime value can help you see which customers are worth your focus and investment and allow you to better plan your marketing budget. The Customer Lifetime Value (CLV) is the total worth that a customer generates for a company over their entire customer journey. In many companies, this enormously important figure is used across departments to distribute resources in a way that best optimizes sales and profits. CLV takes into account not only historic and
+current sales, but also includes forecasted future sales.
 
 ## Data Source and Description
 
@@ -47,7 +48,7 @@ Below data elements represent the number of different types of pages visited by 
 -	Weekend
 -	Revenue : The 'Revenue' attribute can be used as the **class label**.
 
-### Global Telecom Dataset information
+### Telecom Dataset information
 
 -	CUSTOMER_ID: an identification number for the customer
 -	STATE: the US state the customer is in
