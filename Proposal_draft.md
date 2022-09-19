@@ -47,8 +47,30 @@ Below data elements represent the number of different types of pages visited by 
 -	Weekend
 -   Revenue : The 'Revenue' attribute can be used as the **class label**.
 
-### Global Superstore Dataset information
-The Global Super Store dataset is a customer-centric dataset, which has all the orders placed through different vendors and markets.
+### Global Telecom Dataset information
+
+-	CUSTOMER_ID: an identification number for the customer
+-	STATE: the US state the customer is in
+-	AREA_CODE: customer's phone area code
+-	PHONE_NUMBER: customer's phone number
+-	ACCOUNT_LENGTH: duration of months the customer has had an account
+-	INTL_PLAN: whether the customer has an international plan
+-	VMAIL_PLAN: whether the customer has a voicemail plan
+-	VMAIL_MSG: number of voicemail messages the customer has received in a given month
+-	DAY_MINS: number of daytime minutes the customer has used in a given month
+-	DAY_CALLS: number of calls the customer has made during the daytime in a given month
+-	DAY_CHARGE: total dollar charge for daytime calls in a given month
+-	EVE_MINS: number of evening minutes the customer has used in a given month
+-	EVE_CALLS: number of calls the customer has made during evenings in a given month
+-	EVE_CHARGE: total dollar charge for evening calls in a given month
+-	NIGHT_MINS: number of nighttime minutes the customer has used in a given month
+-	NIGHT_CALLS: number of calls the customer has made during the nighttime in a given month
+-	NIGHT_CHARGE: total dollar charge for nighttime calls in a given month
+-	INTL_MINS: number of international minutes the customer has used in a given month
+-	INTL _CALLS: number of calls the customer has made internationally in a given month
+-	INTL _CHARGE: total dollar charge for international calls in a given month
+-	CUST_SERV_CALLS: number of customer service calls in a given month
+-	CHURN: a yes or no column indicating whether the customer unsubscribed or not within three months of the period covered by the data in the other columns
 
 ## Approach / Methodologies
 -  Analyze and visualize data in Python using pandas and Matplotlib
